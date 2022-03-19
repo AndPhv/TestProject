@@ -1,7 +1,7 @@
 package java.util;
 
 public class ListAttractions {
-    String[][] list = new String[][] {
+    public String[][] list = new String[][] {
             {"Исаакиевский собор" + "\t\t\t\t\t\t\t\t", "5", "10"},
             {"Эрмитаж" + "\t\t\t\t\t\t\t\t\t\t\t", "8", "11"},
             {"Кунсткамера" + "\t\t\t\t\t\t\t\t\t\t", "3.5", "4"},
